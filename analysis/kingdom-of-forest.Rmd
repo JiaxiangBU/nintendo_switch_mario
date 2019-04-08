@@ -1,0 +1,8 @@
+---
+title: 森之国 通关笔记
+author: 李家翔
+date: '`r Sys.Date()`'
+output: github_document
+---
+
+森之国 boss，降落有阴影，直接**靠上去**，同时**帽子**刷过去，把毒清理干净，打蒙，然后踩。
