@@ -3,3 +3,4 @@
 1. add r proj and news
 1. add readme
 1. add 沙之国通关笔记
+1. add 地图使用
