@@ -8,4 +8,4 @@ output: github_document
 1. 扔帽子，晃动手柄，可以追踪。
 1. 按住<kbd>Y</kbd> + 横向摇动 托马斯
 1. 后空翻更高，<kbd>ZL</kbd> 再 <kbd>B</kbd>
-
+1. <kbd>B</kbd> + 摇杆向上，向上攀爬
