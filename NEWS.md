@@ -2,6 +2,8 @@
 
 1. 更新 动作组合
 1. add LICENSE
+1. add coc
+1. add todos
 
 ### 2019-04-08 22:20:14
 
