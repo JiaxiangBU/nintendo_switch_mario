@@ -4,6 +4,7 @@
 1. add LICENSE
 1. add coc
 1. add todos
+1. make public
 
 ### 2019-04-08 22:20:14
 
