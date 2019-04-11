@@ -4,6 +4,7 @@
 1. 给各个国家文件rename
 1. 修改每个的 yaml，为了 gitbook 做准备
 1. 增加 _output.yaml，方便批量 render
+1. render all
 
 ### 2019-04-10 10:57:27
 
