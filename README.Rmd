@@ -20,6 +20,12 @@ knitr::opts_chunk$set(
 
 1. [ ] 整理游戏图片
 
+## 更新笔记
+
+```{r eval=FALSE, include=FALSE}
+rstudioapi::jobRunScript("R/build.R", encoding = "UTF-8", workingDir = ".")
+```
+
 ***
 
 <h4 align="center">**Code of Conduct**</h4>
