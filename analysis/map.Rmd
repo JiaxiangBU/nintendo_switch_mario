@@ -1,9 +1,4 @@
----
-title: 地图使用
-author: 李家翔
-date: '`r Sys.Date()`'
-output: github_document
----
+# 地图使用
 
 1. 使用地图节约时间，使用 <kbd>-</kbd> 打开
 1. 刷锦旗，可以在小地图上识别，可以快速到达。

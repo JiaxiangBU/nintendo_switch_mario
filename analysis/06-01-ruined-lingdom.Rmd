@@ -1,9 +1,4 @@
----
-title: 迷失之国 通关笔记
-author: 李家翔
-date: '`r Sys.Date()`'
-output: github_document
----
+# 迷失之国
 
 “迷失”之处，都是毒液，会伤血。
 炸弹虫的用法一开始没有领悟，是凿开周围箱子的工具。

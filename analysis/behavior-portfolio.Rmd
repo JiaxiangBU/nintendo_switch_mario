@@ -1,9 +1,4 @@
----
-title: 动作组合
-author: 李家翔
-date: '`r Sys.Date()`'
-output: github_document
----
+# 动作组合
 
 1. 扔帽子，晃动手柄，可以追踪。
 1. 按住<kbd>Y</kbd> + 横向摇动 托马斯

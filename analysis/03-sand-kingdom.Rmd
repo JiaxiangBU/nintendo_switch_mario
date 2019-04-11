@@ -1,9 +1,4 @@
----
-title: 沙之国通关笔记
-author: 李家翔
-date: '`r Sys.Date()`'
-output: github_document
----
+# 沙之国
 
 [^踩]: 撞地，跳 <kbd>B</kbd> + 下蹲 <kbd>ZL</kbd>
 
