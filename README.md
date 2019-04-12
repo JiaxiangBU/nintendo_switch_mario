@@ -5,7 +5,8 @@ Nintendo Switch Mario
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-记录游戏笔记。
+采用 [文学编程](https://jiaxiangbu.github.io/learn_rmd/literate-prog.html)
+的方式，记录游戏笔记。
 
 ## Todos
 
