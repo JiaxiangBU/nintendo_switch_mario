@@ -11,7 +11,7 @@ Nintendo Switch Mario
 ## Todos
 
 1.  [ ] 整理游戏图片
-2.  [ ] 加入文学编程完成
+2.  [x] 加入文学编程完成
 3.  [ ] 可以用 gitbook 的框架。
 
 ## 更新笔记
