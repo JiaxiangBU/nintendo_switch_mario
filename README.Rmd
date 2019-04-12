@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 ## Todos
 
 1. [ ] 整理游戏图片
+1. [ ] 加入文学编程完成
+1. [ ] 可以用 gitbook 的框架。
 
 ## 更新笔记
 

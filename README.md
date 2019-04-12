@@ -1,7 +1,7 @@
 Nintendo Switch Mario
 ================
 李家翔
-2019-04-11
+2019-04-12
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -10,6 +10,8 @@ Nintendo Switch Mario
 ## Todos
 
 1.  [ ] 整理游戏图片
+2.  [ ] 加入文学编程完成
+3.  [ ] 可以用 gitbook 的框架。
 
 ## 更新笔记
 
