@@ -8,3 +8,6 @@
 5.  单杠跳跃，摇杆左右大幅度摇摆，按 <kbd>B</kbd>，参考
     [Reference](http://v.youku.com/v_show/id_XMzExNzM5MjUxNg==.html)
 6.  坦克不好操作，需要手柄瞄准
+7.  远跳，按<kbd>摇杆</kbd>，跑动起来，然后同时按<kbd>SL</kbd> +
+    <kbd>B</kbd>，就可以了，如果同时按<kbd>SL</kbd> +
+    <kbd>B</kbd>不动，就是滚地
