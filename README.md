@@ -1,18 +1,21 @@
 Nintendo Switch Mario
 ================
 李家翔
-2019-04-12
+2019-04-14
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 采用 [文学编程](https://jiaxiangbu.github.io/learn_rmd/literate-prog.html)
-的方式，记录游戏笔记。
+的方式，记录游戏笔记，但是非攻略，主要记录
+
+1.  感受
+2.  游戏中最小 (*minimal*) 建议
 
 ## Todos
 
-1.  [ ] 整理游戏图片
-2.  [x] 加入文学编程完成
-3.  [ ] 可以用 gitbook 的框架。
+1.  \[ \] 整理游戏图片
+2.  \[x\] 加入文学编程完成
+3.  \[ \] 可以用 gitbook 的框架。
 
 ## 更新笔记
 
