@@ -1,0 +1,66 @@
+---
+title: 任天堂 Switch 马里奥 奥德赛 通关笔记
+author: 李家翔
+date: "`r Sys.Date()`"
+output: 
+    bookdown::gitbook:
+        split_by: none
+        split_bib: TRUE
+        df_print: paged
+---
+
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+source(here::here("R/load.R"))
+```
+
+```{r eval=FALSE, include=FALSE}
+fs::dir_info("analysis", regexp = "\\.Rmd$") %>% 
+    transmute(
+        text = glue("```{r,child='<<path>>'}
+                    ```", .open = "<<", .close = ">>")
+    ) %>% 
+    .$text %>% 
+    collapse("\n")
+```
+
+```{r,child='analysis/00-intro.Rmd'}
+```
+```{r,child='analysis/01-cap-kingdom.Rmd'}
+```
+```{r,child='analysis/02-cascade-kingdom.Rmd'}
+```
+```{r,child='analysis/03-sand-kingdom.Rmd'}
+```
+```{r,child='analysis/04-lake-kingdom.Rmd'}
+```
+```{r,child='analysis/05-wooded-kingdom.Rmd'}
+```
+```{r,child='analysis/06-00-cloud-kingdom.Rmd'}
+```
+```{r,child='analysis/06-01-ruined-lingdom.Rmd'}
+```
+```{r,child='analysis/07-metro-kingdom.Rmd'}
+```
+```{r,child='analysis/08-snow-kingdom.Rmd'}
+```
+```{r,child='analysis/09-seaside-kingdom.Rmd'}
+```
+```{r,child='analysis/10-luncheon-kingdom.Rmd'}
+```
+```{r,child='analysis/11-taken-away-kingdom.Rmd'}
+```
+```{r,child='analysis/12-bowser-kingdom.Rmd'}
+```
+```{r,child='analysis/12-mushroom-kingdom.Rmd'}
+```
+```{r,child='analysis/13-moon-kingdom.Rmd'}
+```
+```{r,child='analysis/behavior-portfolio.Rmd'}
+```
+```{r,child='analysis/map.Rmd'}
+```
