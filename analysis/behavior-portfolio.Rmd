@@ -8,3 +8,4 @@
     [Reference](http://v.youku.com/v_show/id_XMzExNzM5MjUxNg==.html)
 1. 坦克不好操作，需要手柄瞄准
 1. 远跳，按<kbd>摇杆</kbd>，跑动起来，然后同时按<kbd>SL</kbd> + <kbd>B</kbd>，就可以了，如果同时按<kbd>SL</kbd> + <kbd>B</kbd>不动，就是滚地
+1. 滚地时，点按<kbd>Y</kbd>，可以高效的保持持续性
