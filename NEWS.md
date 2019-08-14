@@ -1,3 +1,5 @@
+# nintendo_switch_mario 1.0.0
+
 * Added `DESCRIPTION` and `LICENSE.md` and  GitHub heading.
 * Updated README for the `bookdown` purpose.
 * Added notes for most maps.
