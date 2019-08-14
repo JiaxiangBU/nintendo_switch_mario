@@ -45,3 +45,16 @@ clipr::read_clip() %>%
 bookdown::render_book("game-notes.Rmd", clean_envir = FALSE, output_dir = "docs")
 source("R/build.R")
 rmarkdown::render("game-notes.Rmd")
+
+
+# desc --------------------------------------------------------------------
+
+library(usethis)
+desc <- usethis:::build_description()
+desc <- desc::description$new(text = desc)
+tidy_desc(desc)
+lines <- desc$str(by_field = TRUE, normalize = FALSE, mode = "file")
+write_over(proj_path("DESCRIPTION"), lines)
+if (!getOption("usethis.quiet", default = FALSE)) {
+    print(desc)
+}
