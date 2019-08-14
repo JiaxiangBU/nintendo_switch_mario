@@ -60,3 +60,15 @@ if (!getOption("usethis.quiet", default = FALSE)) {
 }
 
 file.edit("DESC")
+
+
+
+# use travis --------------------------------------------------------------
+
+
+use_travis()
+# refs https://github.com/apreshill/bookdown-travis-production-context
+
+
+
+

@@ -8,6 +8,8 @@ Nintendo Switch Mario
 <!-- badges: start -->
 
 [![DOI](https://zenodo.org/badge/180167580.svg)](https://zenodo.org/badge/latestdoi/180167580)
+[![Travis build
+status](https://travis-ci.org/JiaxiangBU/nintendo_switch_mario.svg?branch=master)](https://travis-ci.org/JiaxiangBU/nintendo_switch_mario)
 <!-- badges: end -->
 
 ## 目的
