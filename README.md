@@ -24,6 +24,30 @@ status](https://travis-ci.org/JiaxiangBU/nintendo_switch_mario.svg?branch=master
 
 这个公开项目主要是帮助理解 bookdown 构建的一个最小可复现的例子。
 
+## Citations
+
+Jiaxiang Li. (2019, August 14). JiaxiangBU/nintendo\_switch\_mario:
+nintendo\_switch\_mario 1.0.0 (Version v1.0.0). Zenodo.
+<http://doi.org/10.5281/zenodo.3368615>
+
+``` bibtex
+@misc{jiaxiang_li_2019_3368615,
+  author       = {Jiaxiang Li},
+  title        = {{JiaxiangBU/nintendo_switch_mario: 
+                   nintendo_switch_mario 1.0.0}},
+  month        = aug,
+  year         = 2019,
+  doi          = {10.5281/zenodo.3368615},
+  url          = {https://doi.org/10.5281/zenodo.3368615}
+}
+```
+
+If you use nintendo\_switch\_mario, I would be very grateful if you can
+add a citation in your published work. By citing
+nintendo\_switch\_mario, beyond acknowledging the work, you contribute
+to make it more visible and guarantee its growing and sustainability.
+For citation, please use the BibTex or the citation content.
+
 -----
 
 <h4 align="center">

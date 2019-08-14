@@ -34,6 +34,24 @@ knitr::opts_chunk$set(
 
 这个公开项目主要是帮助理解 bookdown 构建的一个最小可复现的例子。
 
+## Citations
+
+```{r include=FALSE}
+citations <- add2pkg::add_zenodo_citation("README.Rmd")
+```
+
+```{r echo=FALSE, results='asis'}
+cat(citations$Cite)
+```
+
+```{r echo=FALSE, results='asis'}
+cat(paste0("```BibTex\n",citations$BibTex,"\n```"))
+```
+
+```{r echo=FALSE, results='asis'}
+cat(citations$Comments)
+```
+
 ***
 
 `r add2pkg::add_disclaimer("Jiaxiang Li", license_name = "CC-BY-4.0")`
