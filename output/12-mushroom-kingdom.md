@@ -1,4 +1,18 @@
 
 # 蘑菇王国
 
-Peach’s Castle 解救碧琪公主后，你将有机会拜访她所在的蘑菇王国。
+Peach’s Castle
+    解救碧琪公主后，你将有机会拜访她所在的蘑菇王国。
+
+1.  在城堡屋顶上获得月亮很难，需要利用跳跳龙长按<kbd>B</kbd>保持起飞状态，然后<kbd>ZL</kbd>脱身，借助脱身之力爬上柱子，获得月亮。
+    [www.bilibili.com](https://www.bilibili.com/video/av18305835/?p=1)
+2.  尾巴尖端，比较难找
+    [www.bilibili.com](https://www.bilibili.com/video/av18305835/?p=2)
+3.  利用跳跳龙，吐舌头抓兔子，毕竟除了 <kbd>B</kbd>，<kbd>Y</kbd> 键功能不能浪费啊，违背游戏设计初衷
+    [www.bilibili.com](https://www.bilibili.com/video/av18305835/?p=3)
+4.  庭园需要四个种子
+5.  后院的花，需要托马斯回旋
+    [www.bilibili.com](https://www.bilibili.com/video/av18305835/?p=8)
+6.  城堡下方有黑龙可以打，可以反复打，但是月亮只有三个
+7.  城堡旁的黑洞不好过，完全是横版跳跃好难，被导弹击中会停滞，影响滞空
+8.  每个城堡可以继续打boss，拿三个月亮

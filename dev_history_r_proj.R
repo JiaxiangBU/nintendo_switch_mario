@@ -42,5 +42,6 @@ clipr::read_clip() %>%
 
 # render book -------------------------------------------------------------
 
-bookdown::render_book("game-notes.Rmd")
-fs::dir_copy("_book/", "docs/", overwrite = TRUE)
+bookdown::render_book("game-notes.Rmd", clean_envir = FALSE, output_dir = "docs")
+source("R/build.R")
+rmarkdown::render("game-notes.Rmd")
