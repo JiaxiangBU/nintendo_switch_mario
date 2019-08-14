@@ -5,6 +5,11 @@ Nintendo Switch Mario
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<!-- badges: start -->
+
+[![DOI](https://zenodo.org/badge/180167580.svg)](https://zenodo.org/badge/latestdoi/180167580)
+<!-- badges: end -->
+
 ## 目的
 
 采用 [文学编程](https://jiaxiangbu.github.io/learn_rmd/literate-prog.html)

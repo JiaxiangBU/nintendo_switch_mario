@@ -7,12 +7,18 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r setup, include = FALSE}
+```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
 )
 ```
+
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/180167580.svg)](https://zenodo.org/badge/latestdoi/180167580)
+<!-- badges: end -->
 
 ## 目的
 
@@ -30,4 +36,5 @@ knitr::opts_chunk$set(
 ***
 
 `r add2pkg::add_disclaimer("Jiaxiang Li", license_name = "CC-BY-4.0")`
+
 
