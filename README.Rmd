@@ -21,21 +21,11 @@ knitr::opts_chunk$set(
 1. 感受
 1. 游戏中最小 (*minimal*) 建议
 
-## 更新笔记
+## Bookdown minimal example
 
-```{r eval=FALSE, include=FALSE}
-rstudioapi::jobRunScript("R/build.R", encoding = "UTF-8", workingDir = ".")
-```
+这个公开项目主要是帮助理解 bookdown 构建的一个最小可复现的例子。
 
 ***
 
-<h4 align="center">**Code of Conduct**</h4>
-
-<h6 align="center">Please note that the 'nintendo_switch_mario' project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
-By contributing to this project, you agree to abide by its terms.</h6>
-
-<h4 align="center">**License**</h4>
-
-<h6 align="center">CC-BY-4.0 &copy; [Jiaxiang Li](LICENSE.md)</h6>
+`r add2pkg::add_disclaimer("Jiaxiang Li", license_name = "CC-BY-4.0")`
 

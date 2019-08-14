@@ -1,7 +1,7 @@
 Nintendo Switch Mario
 ================
 李家翔
-2019-04-29
+2019-08-15
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -11,7 +11,9 @@ Nintendo Switch Mario
 1.  感受
 2.  游戏中最小 (*minimal*) 建议
 
-## 更新笔记
+## Bookdown minimal example
+
+这个公开项目主要是帮助理解 bookdown 构建的一个最小可复现的例子。
 
 -----
 
@@ -23,9 +25,9 @@ Nintendo Switch Mario
 
 <h6 align="center">
 
-Please note that the ‘nintendo\_switch\_mario’ project is released with
-a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to
-this project, you agree to abide by its terms.
+Please note that the `nintendo_switch_mario` project is released with a
+[Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md).<br>By
+contributing to this project, you agree to abide by its terms.
 
 </h6>
 
