@@ -1,8 +1,13 @@
-Package: valid.package.name.goes.here
+Package: nintendo_switch_mario
 Version: 0.0.0.9000
 Title: What the Package Does (One Line, Title Case)
 Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID"))
-License: What license it uses
+Authors@R:
+    person(given = "Jiaxiang",
+           family = "Li",
+           role = c("aut", "cre"),
+           email = "alex.lijiaxiang@foxmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0003-3196-6492"))
+License: CCBY-4.0
 Encoding: UTF-8
 LazyData: true

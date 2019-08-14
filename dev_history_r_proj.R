@@ -58,3 +58,5 @@ write_over(proj_path("DESCRIPTION"), lines)
 if (!getOption("usethis.quiet", default = FALSE)) {
     print(desc)
 }
+
+file.edit("DESC")
