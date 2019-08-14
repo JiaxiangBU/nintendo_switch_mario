@@ -9,7 +9,7 @@ output:
         df_print: paged
 ---
 
-```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+```{r echo = FALSE, message = FALSE, warning = FALSE}
 knitr::opts_chunk$set(
 	echo = FALSE,
 	message = FALSE,

@@ -37,3 +37,10 @@ clipr::read_clip() %>%
 clipr::read_clip() %>%
     str_c("#' \\dontrun{", ., "}") %>%
     clipr::write_clip()
+
+
+
+# render book -------------------------------------------------------------
+
+bookdown::render_book("game-notes.Rmd")
+fs::dir_copy("_book/", "docs/", overwrite = TRUE)
